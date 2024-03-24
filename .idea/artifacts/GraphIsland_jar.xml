@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GraphIsland:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraphIsland_jar</output-path>
+    <root id="archive" name="GraphIsland.jar">
+      <element id="module-output" name="GraphIsland" />
+    </root>
+  </artifact>
+</component>
